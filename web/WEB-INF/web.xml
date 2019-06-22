@@ -5,7 +5,7 @@
          version="4.0">
     <servlet>
         <servlet-name>Processing</servlet-name>
-        <servlet-class>main.com.servlet</servlet-class>
+        <servlet-class>main.servlet.servlet</servlet-class>
     </servlet>
 
     <servlet-mapping>

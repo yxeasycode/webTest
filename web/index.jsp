@@ -12,6 +12,6 @@
   </head>
   <body>
   hello world！
-  <a href="processing?name=yixian&age=22">this is a link!</a>
+  <a href="/processing?name=yixian&age=22">this is a link!</a>
   </body>
 </html>
